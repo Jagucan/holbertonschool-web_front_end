@@ -3,7 +3,7 @@ html {
 }
 
 body {
-  color: var(--text-color);
+  color: #161616;
 }
 
 a {
@@ -15,9 +15,9 @@ visually-hidden {
 }
 
 card-category {
-  color: var(--color-primary);
+  color: #d73953;
 }
 
 section-tagline {
-  color: var(--color-primary);
+  color: #d73953;
 }
