@@ -31,11 +31,11 @@ a:visited {
 }
 
 a:hover {
-  font-style: underline;
+  text-decoration: underline;
 }
 
 a:active {
-  color: var(--color-light-grey);
+  background-color: var(--color-light-grey);
 }
 
 visually-hidden {
