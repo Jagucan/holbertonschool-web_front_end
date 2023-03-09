@@ -64,7 +64,7 @@ visually-hidden {
   background-color: var(--color-light-grey);
 }
 
-.card-category a:hover {
+.card-services a:hover {
   color: var(--color-white);
   background-color: var(--color-primary);
   font-style: none;
