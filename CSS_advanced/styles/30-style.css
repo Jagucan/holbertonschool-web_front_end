@@ -136,10 +136,10 @@ visually-hidden {
 .card-work .card-title a {
   display: block;
   text-decoration: none;
-  padding: 45%;
+  padding: 0.45rem;
 }
 
-.card-work .card-title::after {
+.card-work .card-title a::after {
   position: absolute;
   top: 0;
   right: 0;
