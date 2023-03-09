@@ -120,7 +120,7 @@ visually-hidden {
 .nav .nav-link {
   letter-spacing: var(--nav-item-letter-spacing);
   display: block;
-  padding: calc(0.5 * var(--root-element)) var(--root-element);
+  padding: 0.5rem 1rem;
 }
 
 .nav .nav-link:hover {
