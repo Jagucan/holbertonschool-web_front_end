@@ -30,11 +30,11 @@ a:visited {
   font-style: italic;
 }
 
-a:link:hover {
+a:hover {
   font-style: underline;
 }
 
-a:link:active {
+a:active {
   color: var(--color-light-grey);
 }
 
