@@ -45,7 +45,7 @@ visually-hidden {
 .section-tagline {
   color: var(--color-primary);
   font-family: var(--font-family-title);
-  font-style: var(--section-tagline-transform);
+  text-transform: var(--section-tagline-transform);
   font-weight: var(--font-weight-bold);
 }
 
