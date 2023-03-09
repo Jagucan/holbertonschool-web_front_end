@@ -77,14 +77,15 @@ visually-hidden {
 }
 
 .section-footer {
-  align-items: var(--section-footer-align);
+  padding: var(--section-body-footer);
+  text-align: var(--section-footer-align);
   padding-left: var(--section-footer-padding);
   padding-top: var(--section-footer-padding);
   padding-bottom: var(--section-footer-padding);
   padding-right: var(--section-footer-padding);
 }
 
-footer {
+.footer {
   padding-left: var(--footer-padding);
   padding-top: var(--footer-padding);
   padding-bottom: var(--footer-padding);
@@ -136,10 +137,10 @@ footer {
   --section-tagline-transform: uppercase;
   --section-title-margin: 0;
   --section-title-color: var(--color-black);
-  --section-padding: 5rem, 0;
-  --section-header-padding: 0, 0, 3rem;
-  --section-body-padding: 0, 0, 3rem;
-  --section-footer-padding: 3rem, 0, 0;
+  --section-padding: 5rem 0;
+  --section-header-padding: 0 0 3rem;
+  --section-body-padding: 0 0 3rem;
+  --section-footer-padding: 3rem 0 0;
   --section-footer-align: center;
-  --footer-padding: 5rem, 0, 1rem;
+  --footer-padding: 5rem 0 1rem;
 }
