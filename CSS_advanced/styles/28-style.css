@@ -19,7 +19,7 @@ body {
   line-height: var(--line-height-base);
 }
 
-header {
+.header {
   padding: var(--header-padding);
 }
 
@@ -29,7 +29,7 @@ header {
 
 .header-logo a {
   display: var(--header-logo-link-display);
-  position: var(--header-logo-position);
+  position: var(--header-logo-link-position);
   top: var(--header-logo-link-top);
   left: var(--header-logo-link-left);
 }
