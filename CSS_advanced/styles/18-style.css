@@ -162,5 +162,5 @@ visually-hidden {
   --nav-item-display: inline-block;
   --nav-item-link-hover: var(--color-primary);
   --nav-item-letter-spacing: 4%;
-  --nav-item-margin: 0 0 calc(3 * var(--root-element)) 0;
+  --nav-item-margin: calc(3 * var(--root-element));
 }
