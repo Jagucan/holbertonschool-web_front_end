@@ -118,6 +118,7 @@ visually-hidden {
 }
 
 .nav .nav-link {
+  letter-spacing: var(--nav-item-letter-spacing);
   display: block;
   padding: calc(var(--root-element-size) / 2) var(--root-element-size);
 }
