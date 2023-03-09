@@ -192,7 +192,7 @@ visually-hidden {
   --nav-item-link-hover: var(--color-white);
 }
 
-.nav .nav-item::before {
+.nav .nav-link::before {
   content: "";
   position: absolute;
   top: 0;
