@@ -26,7 +26,7 @@ a:link {
   text-decoration: none;
 }
 
-a:link:visited {
+a:visited {
   font-style: italic;
 }
 
