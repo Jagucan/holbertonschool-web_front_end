@@ -140,6 +140,7 @@ visually-hidden {
 }
 
 .card-work .card-title a::after {
+  content: "";
   position: absolute;
   top: 0;
   right: 0;
