@@ -94,10 +94,9 @@ visually-hidden {
   width: 10rem;
   height: 10rem;
 }
-
 .card-testimonial .card-quote {
   position: relative;
-  top: -4.5rem;
+  color: #efeded;
 }
 
 .card-testimonial .card-quote cite {
@@ -109,8 +108,9 @@ visually-hidden {
 .card-testimonial .card-quote::before {
   content: "\201C";
   position: absolute;
+  top: -4.5rem;
   left: -1rem;
-  background-color: #efeded;
+  color: #efeded;
   font-size: 10rem;
   z-index: -1;
 }
